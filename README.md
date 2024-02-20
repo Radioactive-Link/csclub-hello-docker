@@ -13,6 +13,8 @@ Here is a one-liner to install and run (must have git and docker, and compose in
 git clone https://Radioactive-Link/csclub-hello-docker && cd csclub-hello-docker && docker compose up -d
 ```
 
+Also, checkout https://labs.play-with-docker.com/# to mess with docker in a vm
+
 ## Running
 ```sh
 # build the image with name "hello-docker"
