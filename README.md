@@ -4,9 +4,9 @@ A simple "Hello World" for Docker, Docker compose, and FastApi
 ## Installation
 The only thing you need to run this project is docker and docker compose
 Docker:
-- [Windows][https://docs.docker.com/desktop/install/windows-install/]
-- [Mac][https://docs.docker.com/desktop/install/mac-install/]
-- [Linux][https://docs.docker.com/desktop/install/linux-install/]
+- [Windows](https://docs.docker.com/desktop/install/windows-install/)
+- [Mac](https://docs.docker.com/desktop/install/mac-install/)
+- [Linux](https://docs.docker.com/desktop/install/linux-install/)
 
 Here is a one-liner to install and run (must have git and docker, and compose installed)
 ```sh
